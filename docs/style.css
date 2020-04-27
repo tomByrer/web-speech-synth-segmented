@@ -1,0 +1,39 @@
+body, html {
+  margin: 0;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 90%;
+  max-width: 80.9em;
+  margin: 0 auto;
+}
+
+h1, h2, h3, p, div {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 0;
+}
+
+textarea {
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 1.16em;
+  text-align: left;
+	padding: 0.16em;
+  margin: 0.618em 0;
+}
+#linesarea {
+  border-width: 0.1618em;
+}
+
+.controls {
+  text-align: center;
+}
+
+.controls button {
+  margin: 0.618em;
+  padding: 0.618em;
+}

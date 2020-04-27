@@ -1,0 +1,17 @@
+{
+  "name": "web-speech-synth-segmented",
+  "version": "1.0.0",
+  "description": "demo voice synth playing in lines, words, and letters",
+  "main": "index.js",
+  "type": "module",
+  "author": "tom byrer",
+  "license": "LGPL-3.0",
+  "private": false,
+  "globalDependacies": {
+    "onchange": "6.1.0"
+  },
+  "scripts": {
+    "build": "node src/build",
+    "dev": "onchange \"src\" -- npm run build"
+  }
+}
