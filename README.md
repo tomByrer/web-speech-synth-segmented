@@ -2,7 +2,7 @@
 
 ## Usage
 
-Simple demo of the web browser's <a href=https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API>Web Speech API</a>.  You can play the input text in several ways:
+Simple [online demo](https://tombyrer.github.io/web-speech-synth-segmented/) of the web browser's <a href=https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API>Web Speech API</a>.  You can play the input text in several ways:
 * *whole* text block without period  or comma breaks
 * *line* by line
 * pauses between *words*
